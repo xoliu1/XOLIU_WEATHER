@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_margin="@dimen/dp_4"
+    android:layout_height="wrap_content"
+    android:textColor="@color/white"
+    android:textSize="@dimen/sp_14"
+    android:background="@drawable/card_style">
+    <TextView
+        android:id="@+id/tv_lifestyle"
+        android:layout_width="match_parent"
+        android:paddingTop="@dimen/dp_8"
+        android:paddingBottom="@dimen/dp_8"
+        android:paddingLeft="@dimen/dp_6"
+        android:paddingRight="@dimen/dp_2"
+        android:gravity="center"
+        android:layout_height="wrap_content"
+        android:textColor="@color/black"
+        android:textSize="@dimen/sp_14" />
+
+
+</LinearLayout>
