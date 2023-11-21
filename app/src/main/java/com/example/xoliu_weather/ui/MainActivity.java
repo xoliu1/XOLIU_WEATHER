@@ -81,9 +81,7 @@ public class MainActivity extends NetworkActivity<ActivityMainBinding> implement
     //是否正在刷新
     private boolean isRefresh;
 
-    /**
-     * 注册意图
-     */
+
     /**
      * 注册意图
      */
